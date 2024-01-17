@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "name": "wdwqe",
+    "fieldId": "wdwqe",
+    "modelId": "qweqwe",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
+  }
+]
